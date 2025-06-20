@@ -1,6 +1,6 @@
 # CHyPS: Classificador Híbrido Ponderado para Dados Socioterritoriais
 
-Este repositório contém a implementação em Python do **CHyPS (Classificador Híbrido Ponderado para Dados Socioterritoriais)**, um novo meta-algoritmo proposto como parte de uma pesquisa de doutorado.
+Este repositório contém a implementação em Python do **CHyPS (Classificador Híbrido Ponderado para Dados Socioterritoriais)**, um novo meta-algoritmo proposto como parte de uma pesquisa de Aprendizado de Máquina e LLMs
 
 ## Sobre o Projeto
 
